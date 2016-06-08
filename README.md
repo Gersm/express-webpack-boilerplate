@@ -1,11 +1,11 @@
-# Express Webpack Boilerplate
-  * ES6 to transform ES5
-  * Include CSS
-  * Server EXPRESS (port:3000)
+#### Express Webpack Boilerplate
+   * ES6 to transform ES5
+   * Include CSS
+   * Server EXPRESS (port:3000)
    * Structure folders:
 ```json
-  {
-    "dist": "Distribution for files",
+   {
+       "dist": "Distribution for files",
        "src": "Source files",
        "static": "Files that are not compiled",
        "webpack": "configuration files for example: webpack.config.js, serverExpress.js"
