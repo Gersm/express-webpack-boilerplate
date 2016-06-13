@@ -1,0 +1,13 @@
+{
+   "name": "express-webpack-boilerplate",
+   "version": "0.0.1",
+   "description": "Express Webpack Boilerplate",
+   "author": "Gersom Alaja",
+   "repository": {
+      "type": "git",
+      "url": "https://github.com/Gersm/express-webpack-boilerplate.git"
+   },
+   "dependencies": {
+      "webpack": "^1.13.1",
+   },
+}
