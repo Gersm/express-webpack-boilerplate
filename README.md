@@ -1,4 +1,4 @@
-#### Express Webpack Boilerplate
+# Express Webpack Boilerplate
    * ES6 to transform ES5
    * Include CSS
    * Server EXPRESS (port:3000)
@@ -20,3 +20,5 @@
        "style": ["stylus", "sass"],
    }
 ```
+## License
+basic-webpack-boilerplate is licensed under [The MIT License](LICENSE).

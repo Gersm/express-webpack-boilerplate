@@ -3,8 +3,10 @@
    "version": "0.0.1",
    "description": "Express Webpack Boilerplate",
    "author": "Gersom Alaja",
+   "license": "MIT",
+   "homepage": "https://github.com/Gersom/express-webpack-boilerplate/",
    "repository": {
       "type": "git",
-      "url": "https://github.com/Gersm/express-webpack-boilerplate.git"
+      "url": "https://github.com/Gersom/express-webpack-boilerplate.git"
    }
 }
