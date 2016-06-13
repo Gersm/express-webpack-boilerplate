@@ -21,4 +21,4 @@
    }
 ```
 ## License
-basic-webpack-boilerplate is licensed under [The MIT License](LICENSE).
+express-webpack-boilerplate is licensed under [The MIT License](LICENSE).
